@@ -1,6 +1,13 @@
 title: How do cells feel?
 description: Personal website for research, code, and musings.
 show_downloads: false
-show_github: false
+show_github: true
 google_analytics:
 theme: jekyll-theme-midnight
+
+# social
+twitter: username
+steam: username
+instagram: username
+github-url: username
+
